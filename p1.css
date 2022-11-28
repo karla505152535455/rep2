@@ -1,0 +1,30 @@
+*{
+	margin:0%;
+	padding: 0%;
+}
+.uno{
+	background: black;
+	color: white;
+	text-align: center;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+#caja2{
+	height: 80%;
+}
+#caja3{
+	text-align: center;
+	height: 20%;
+}
+#caja4{
+	text-align: center;
+	height: 20%;
+}
+#caja5{
+	background: black;
+	color: white;
+	font-size: 40px;
+	padding: 1em;
+}
